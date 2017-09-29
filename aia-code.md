@@ -5,9 +5,9 @@
 ## Preamble
 
 Members of The American Institute of Architects are dedicated to the highest standards of professionalism, integrity, and competence. This Code of Ethics and Professional Conduct states guidelines for the conduct of Members in fulfilling those obligations. The Code is arranged in three tiers of statements: Canons, Ethical Standards, and Rules of Conduct:
-- Canonsarebroadprinciplesofconduct.
+- Canons are broad principles of conduct.
 - Ethical Standards (E.S.) are more specific goals toward which Members should aspire in professional performance and behavior.
-- RulesofConduct(Rule)are mandatory; violation of a Rule is grounds for disciplinary action by the Institute. Rules of Conduct, in some instances, implement more than one Canon or Ethical Standard.
+- Rules of Conduct (Rule) are mandatory; violation of a Rule is grounds for disciplinary action by the Institute. Rules of Conduct, in some instances, implement more than one Canon or Ethical Standard.
 
 The Code applies to the professional activities of all classes of Members, wherever they occur. It addresses responsibilities to the public, which the profession serves and enriches; to the clients and users of architecture and in the building industries, who help to shape the built environment; and to the art and science of architecture, that continuum of knowledge and creation which is the heritage and legacy of the profession.
 
@@ -17,11 +17,11 @@ Commentary is provided for some of the Rules of Conduct. That commentary is mean
 The following practices are not, in themselves, unethical, unprofessional, or contrary to any policy of The American Institute of Architects or any of its components:
 - (1) submitting, at any time, competitive bids or price quotations, including in circumstances where price is the sole or principal consideration in the selection of an architect;
 - (2) providing discounts; or
-- (3) providingfreeservices.
+- (3) providing free services.
 
 Individual architects or architecture firms, acting alone and not on behalf of the Institute or any of its components, are free to decide for themselves whether or not to engage in any of these practices. Antitrust law permits the Institute, its components, or Members to advocate legislative or other government policies or actions relating to these practices. Finally, architects should continue to consult with state laws or regulations governing the practice of architecture.
 
-## CANON I General Obligations
+## Canon I General Obligations
 Members should maintain and advance their knowledge of the art and science of architecture, respect the body of architectural accomplishment, contribute to its growth, thoughtfully consider the social and environmental impact of their professional activities, and exercise learned and uncompromised professional judgment.
 
 ### E.S.1.1 Knowledge and Skill:
@@ -45,7 +45,7 @@ Members should uphold human rights in all their professional endeavors.
 Members shall not discriminate in their professional activities on the basis of race, religion, gender, national origin, age, disability, or sexual orientation.
 
 ### E.S.1.5 Design for Human Dignity and the Health, Safety, and Welfare of the Public: 
-Members should employ their professional knowledge and skill to design buildings and spaces that will enhance and facilitate human dignity and the health,safety, and welfare of the individual and the public.
+Members should employ their professional knowledge and skill to design buildings and spaces that will enhance and facilitate human dignity and the health, safety, and welfare of the individual and the public.
 
 ### E.S. 1.6 Allied Arts and Industries:
 Members should promote allied arts and contribute to the knowledge and capability of the building industries as a whole.
@@ -80,7 +80,7 @@ If, in the course of their work on a project, the Members become aware of a deci
 - (b) refuse to consent to the decision, and
 - (c) report the decision to the local building inspector or other public official charged with the enforcement of the applicable laws and regulations, unless the Members are able to cause the matter to be satisfactorily resolved by other means.
 
-*Commentary: This rule extends only to violations of the building laws that threaten the public safety. The obligation under this rule applies only to the safety of the finished project, an obligation coextensive with the sual undertaking of an architect.*
+*Commentary: This rule extends only to violations of the building laws that threaten the public safety. The obligation under this rule applies only to the safety of the finished project, an obligation coextensive with the usual undertaking of an architect.*
 
 **Rule 2.106**
 Members shall not counsel or assist a client in conduct that the architect knows, or reasonably should know, is fraudulent or illegal.
@@ -165,7 +165,7 @@ Members speaking in their professional capacity shall not knowingly make false s
 Members should strive, through their actions, to promote the dignity and integrity of the profession, and to ensure that their representatives and employees conform their conduct to this Code.
 
 **Rule 4.201**
-Members shall not make 4.201 misleading, deceptive, or false statements or claims about their professional qualifications, experience, or performance and shall accurately state the scope and nature of their responsibilities in connection with work for which they are claiming credit.
+Members shall not make misleading, deceptive, or false statements or claims about their professional qualifications, experience, or performance and shall accurately state the scope and nature of their responsibilities in connection with work for which they are claiming credit.
 
 *Commentary: This rule is meant to prevent Members from claiming or implying credit for work which they did not do, misleading others, and denying other participants in a project their proper share of credit.*
 
