@@ -123,7 +123,7 @@ A Designer or Developer's work shall not make false claims nor knowingly misinfo
 Designers and Developers shall represent messages in a clear manner in all forms of communication and avoid false, misleading and deceptive promotion.
 
 ## Canon III Obligations to the Client
-Designers and Developers should serve their clients competently and in a professional manner, should acquaint himself or herself with a client’s business and design standardsand, should exercise unprejudiced and unbiased judgment when performing all professional services and should act in the client’s best interest within the limits of professional responsibility.
+Designers and Developers should serve their clients competently and in a professional manner, should acquaint himself or herself with a client’s business and design standards, and should exercise unprejudiced and unbiased judgment when performing all professional services and should act in the client’s best interest within the limits of professional responsibility.
 
 ### E.S. 3.1 Competence:
 Designers and Developers should serve their clients in a timely and competent manner.
