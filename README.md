@@ -1,8 +1,8 @@
 # A Code of Ethics for Desingers and Developers
 
-*Background: This code of ethics was inspired by a comment from Kristin Valentine in her interview on the CTRL+CLICK Podcast (August 17, 2017) in which she suggested that the inspiration for a genuine code of ethics for designers and developers might come from the professional ethics code for architects (who are also creative designers and builders). Taking this to heart, we have adapted the AIA's 2017 Code of Ethics and Professional Conduct to use appropriate langauge for designers and developers. We intend to also incorporate in parts of the AIGA Code of Ethics. You are free to (a) suggest changes (b) modify this code, or (c) ignore us entirely.*
+*Background: This code of ethics was inspired by a comment from Kristin Valentine in her interview on the CTRL+CLICK Podcast (August 17, 2017) in which she suggested that the inspiration for a genuine code of ethics for designers and developers might come from the professional ethics code for architects (who are also creative designers and builders). Taking this to heart, we have adapted the AIA's 2017 Code of Ethics and Professional Conduct to use appropriate langauge for designers and developers. We have also incorporated parts of the AIGA Code of Ethics, using this both to adapt the langauge of the AIA code to be more design/development appropriate and to add additional concerns not addressed by the AIA code.* 
 
-*A primary change we have had to make to the AIA model we are working from is recognizing that there is no authoritative body with the power to discipline designers or developers. This code is essentially a voluntary commitment, not a binding document.
+*This code is not officially recognized by any governing body/organization for Designers or Developers (yet). Therefore, you are free to (a) suggest changes (b) modify this code to your own purposes, or (c) ignore us entirely. Additionally, because there is no authoritive body to adminsiter this code, we have removed language from the AIA codes that suggested disciplinary measures or actions. This code is essentially a voluntary commitment, not a binding document.*
 
 ## Preamble
 
@@ -184,10 +184,10 @@ It is a designer/developer's responsibility to ensure that all staff members res
 Designers and Developers should work only for a fee, a royalty, salary or other agreed-upon form of compensation.
 
 **Rule 3.501**
-A Designer or Developer provides the client with a working agreement or estimate for all projects.
+A Designer or Developer shall provide the client with a working agreement or estimate for all projects.
 
 **Rule 3.502**
-A Designer or Developer will not incur any expenses in excess of the budget without the client’s advance approval.
+A Designer or Developer shall not incur any expenses in excess of the budget without the client’s advance approval.
 
 **Rule 3.503**
 A Designer or Developer shall make clients aware of any markups to expenses. 
@@ -195,13 +195,13 @@ A Designer or Developer shall make clients aware of any markups to expenses.
 *Commentary: A reasonable handling and administration charge may be added, with the knowledge and understanding of the client, as a percentage to all reimbursable items, billable to a client, that pass through the designer/developer’s account.*
 
 **Rule 3.504**
-Designers and Developers do not undertake speculative work or proposals (spec work) in which a client requests work without providing compensation and without developing a professional relationship that permits the designer/developer sufﬁcient access to the client to provide a responsible recommendation.
+Designers and Developers shall not undertake speculative work or proposals (spec work) in which a client requests work without providing compensation and without developing a professional relationship that permits the designer/developer sufﬁcient access to the client to provide a responsible recommendation.
 
 **Rule 3.505**
 Designers and Developers shall not retain any kickbacks, hidden discounts, commission, allowances or payment in kind from contractors or suppliers.
 
 **Rule 3.506**
-A Designer or Developer who has a ﬁnancial interest in any suppliers who may beneﬁt from a recommendation made by the designer/developer in the course of a project will inform the client or employer of this fact in advance of the recommendation.
+A Designer or Developer who has a ﬁnancial interest in any suppliers who may beneﬁt from a recommendation made by the designer/developer in the course of a project shall inform the client or employer of this fact in advance of the recommendation.
 
 **Rule 3.507**
 A Designer or Developer who is asked to advise on the selection of designers/developers or consultant shall not base such advice on the receipt of payment from the designer, developer, or consultants recommended.
