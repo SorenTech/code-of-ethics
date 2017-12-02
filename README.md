@@ -6,7 +6,7 @@
 
 ## Preamble
 
-Designers and Developers are dedicated to the highest standards of professionalism, integrity, and competence. This Code of Ethics and Professional Conduct states guidelines for the conduct of Designers and Developers in fulfilling those obligations. The Code is arranged in three tiers of statements: Canons, Ethical Standards, and Rules of Conduct:
+A professional designer or developer adheres to principles of integrity that demonstrate respect for their profession, for colleagues, for clients, for audiences or consumers, and for society as a whole. This Code of Ethics and Professional Conduct states guidelines for the conduct of Designers and Developers in fulfilling those obligations. The Code is arranged in three tiers of statements: Canons, Ethical Standards, and Rules of Conduct:
 - Canons are broad principles of conduct.
 - Ethical Standards (E.S.) are more specific goals toward which Designers and Developers should aspire in professional performance and behavior.
 - Rules of Conduct (Rule) are even more specific guidelines for behavior. Rules of Conduct, in some instances, implement more than one Canon or Ethical Standard.
@@ -38,14 +38,26 @@ Designers and Developers should continually seek to raise the standards of aesth
 ### E.S.1.3 Natural and Cultural Heritage: 
 Designers and Developers should respect and help conserve their natural and cultural heritage while striving to improve the technical, cultural, and economic environment and the quality of life within it.
 
+**Rule 1.301**
+Designers and Developers shall strive to be sensitive to cultural values and beliefs and engages in fair and balanced communication design that fosters and encourages mutual understanding.
+
 ### E.S.1.4 Human Rights: 
 Designers and Developers should uphold human rights in all their professional endeavors.
 
 **Rule 1.401**
 Designers and Developers shall not discriminate in their professional activities on the basis of race, religion, gender, national origin, age, disability, or sexual orientation.
 
+**Rule 1.402**
+Designer's and Developers shall respect the dignity of all audiences and shall value individual differences even as they avoid depicting or stereotyping people or groups of people in a negative or dehumanizing way.
+
 ### E.S.1.5 Design for Human Dignity and the Health, Safety, and Welfare of the Public: 
 Designers and Developers should employ their professional knowledge and skill to design products and applicatons that will enhance and facilitate human dignity and the health, safety, and welfare of the individual and the public.
+
+**Rule 1.501**
+Designers and Developers shall take a responsible role in the visual portrayal of people, the consumption of natural resources, and the protection of animals and the environment.
+
+**Rule 1.502**
+Designers and Developers, while engaged in the practice or instruction of design/development, shall not knowingly do or fail to do anything that constitutes a deliberate or reckless disregard for the health and safety of the communities in which he or she lives and practices or the privacy of the individuals and businesses therein.
 
 ### E.S. 1.6 Allied Arts and Industries:
 Designers and Developers should promote allied arts and contribute to the knowledge and capability of the creative industries as a whole.
@@ -83,6 +95,12 @@ If, in the course of their work on a project, the Designer/Developer becomes awa
 **Rule 2.106**
 Designers/Developers shall not counsel or assist a client in conduct that the designer/developer knows, or reasonably should know, is fraudulent or illegal.
 
+**Rule 2.107**
+Designers and Developers shall not accept instructions from a client that involve infringement of another person’s property rights without permission, or consciously act in any manner involving any such infringement.
+
+**Rule 2.108**
+A Designer or Developer working in a country other than his or her own shall observe the relevant Code of Conduct of the national society concerned.
+
 ### E.S.2.2 Public Interest Services:
 Designers and Developers should render public interest professional services, including pro bono services, and encourage their employees to render such services. Pro bono services are those rendered without expecting compensation, including those rendered for indigent persons, after disasters, or in other emergencies.
 
@@ -92,8 +110,20 @@ Designers and Developers should be involved in civic activities as citizens and 
 **Rule 2.301**
 Designers and Developers making public statements on design/development issues shall disclose when they are being compensated for making such statements or when they have an economic interest in the issue.
 
+**Rule 2.302**
+Designers and Developers shall strive to understand and support the principles of free speech, freedom of assembly and access to an open marketplace of ideas, and shall act accordingly.
+
+### E.S. 2.4 Truthfulness
+Designers and Developers should communicate the truth in all situations and at all times. 
+
+**Rule 2.401**
+A Designer or Developer's work shall not make false claims nor knowingly misinform.
+
+**Rule 2.402**
+Designers and Developers shall represent messages in a clear manner in all forms of communication and avoid false, misleading and deceptive promotion.
+
 ## Canon III Obligations to the Client
-Designers and Developers should serve their clients competently and in a professional manner, and should exercise unprejudiced and unbiased judgment when performing all professional services.
+Designers and Developers should serve their clients competently and in a professional manner, should acquaint himself or herself with a client’s business and design standardsand, should exercise unprejudiced and unbiased judgment when performing all professional services and should act in the client’s best interest within the limits of professional responsibility.
 
 ### E.S. 3.1 Competence:
 Designers and Developers should serve their clients in a timely and competent manner.
@@ -108,6 +138,12 @@ Designers and Developers shall undertake to perform professional services only w
 
 **Rule 3.103**
 Designers and Developers shall not materially alter the scope or objectives of a project without the client’s consent.
+
+**Rule 3.104**
+Designers and Developers shall not knowingly make use of goods or services offered by manufacturers, suppliers or contractors that are accompanied by an obligation that is substantively detrimental to the best interests of his or her client, society or the environment.
+
+**Rule 3.105**
+Designers and Developers will clearly outline all intellectual property ownership and usage rights in a project proposal or estimate.
 
 ### E.S. 3.2 Conflict of Interest:
 Designers and Developers should avoid conflicts of interest in their professional practices and fully disclose all unavoidable conflicts as they arise.
@@ -138,6 +174,38 @@ Designers and Developers shall not knowingly disclose information that would adv
 
 *Commentary: To encourage the full and open exchange of information necessary for a successful professional relationship, Designers/Developers must recognize and respect the sensitive nature of confidential client communications. Because the law does not recognize a desinger/developer-client privilege, however, the rule permits a Desinger/Developer to reveal a confidence when a failure to do so would be unlawful or contrary to another ethical duty imposed by this Code.*
 
+**Rule 3.402**
+Designers and Developers shall treat all work in progress prior to the completion of a project and all knowledge of a client’s intentions, production methods and business organization as conﬁdential and shall not divulge such information in any manner whatsoever without the consent of the client. 
+
+**Rule 3.403**
+It is a designer/developer's responsibility to ensure that all staff members respect the confidentiality expected under these guidelines.
+
+### E.S. 3.5 Fair and Transparent Fees
+Designers and Developers should work only for a fee, a royalty, salary or other agreed-upon form of compensation.
+
+**Rule 3.501**
+A Designer or Developer provides the client with a working agreement or estimate for all projects.
+
+**Rule 3.502**
+A Designer or Developer will not incur any expenses in excess of the budget without the client’s advance approval.
+
+**Rule 3.503**
+A Designer or Developer shall make clients aware of any markups to expenses. 
+
+*Commentary: A reasonable handling and administration charge may be added, with the knowledge and understanding of the client, as a percentage to all reimbursable items, billable to a client, that pass through the designer/developer’s account.*
+
+**Rule 3.504**
+Designers and Developers do not undertake speculative work or proposals (spec work) in which a client requests work without providing compensation and without developing a professional relationship that permits the designer/developer sufﬁcient access to the client to provide a responsible recommendation.
+
+**Rule 3.505**
+Designers and Developers shall not retain any kickbacks, hidden discounts, commission, allowances or payment in kind from contractors or suppliers.
+
+**Rule 3.506**
+A Designer or Developer who has a ﬁnancial interest in any suppliers who may beneﬁt from a recommendation made by the designer/developer in the course of a project will inform the client or employer of this fact in advance of the recommendation.
+
+**Rule 3.507**
+A Designer or Developer who is asked to advise on the selection of designers/developers or consultant shall not base such advice on the receipt of payment from the designer, developer, or consultants recommended.
+
 ## Canon IV Obligations to the Profession
 Designers and Develoers should uphold the integrity and dignity of the profession.
 
@@ -160,7 +228,7 @@ Designers and Developers should strive, through their actions, to promote the di
 **Rule 4.201**
 Designers and Developers shall not make misleading, deceptive, or false statements or claims about their professional qualifications, experience, or performance and shall accurately state the scope and nature of their responsibilities in connection with work for which they are claiming credit.
 
-*Commentary: This rule is meant to prevent Designers/Developers from claiming or implying credit for work which they did not do, misleading others, and denying other participants in a project their proper share of credit.*
+*Commentary: This rule is meant to prevent Designers/Developers from claiming or implying credit for work which they did not do, misleading others, and denying other participants in a project their proper share of credit. When not the sole author of a work, it is incumbent upon a designer/developer to clearly identify his or her speciﬁc responsibilities or involvement with the work. Examples of such work may not be used for publicity, display or portfolio samples without clear identiﬁcation of precise areas of authorship.*
 
 **Rule 4.202**
 Designers and Developers shall make reasonable efforts to ensure that those over whom they have supervisory authority conform their conduct to this Code.
@@ -192,6 +260,18 @@ Designers and Developers leaving a firm shall not, without the permission of the
 A Designer/Developer shall not unreasonably withhold permission from a departing employee or partner to take copies of designs, code, data, reports, notes, or other materials relating to work performed by the employee or partner that are not confidential.
 
 *Commentary: A Member may impose reasonable conditions, such as the payment of copying costs, on the right of departing persons to take copies of their work.*
+
+**Rule 5.304**
+Designers and Developers shall be objective and balanced in criticizing another designer/developer's work and shall not denigrate the work or reputation of a fellow designer/developer.
+
+### E.S. 5.4 Competition Among Designers and Developers:
+Designers and Developers in pursuit of business opportunities should support fair and open competition.
+
+**Rule 5.401**
+Designers and Developers shall not knowingly accept any professional assignment on which another designer/developer has been or is working without notifying the other designer/developer or until he or she is satisﬁed that any previous appointments have been properly terminated and that all materials relevant to the continuation of the project are the clear property of the client.
+
+**Rule 5.402**
+Designers and Developers must not attempt, directly or indirectly, to supplant or compete with another designer by means of unethical inducements.
 
 ## Canon VI Obligations to the Environment
 Designers and Developers should promote sustainable design and development principles in their professional activities.
